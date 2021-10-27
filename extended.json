@@ -1,10 +1,10 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/crowsfinest/trinity-stake-pool.github.io/blob/main/smallest.png?raw=true",
-        "url_png_logo": "https://github.com/crowsfinest/trinity-stake-pool.github.io/blob/main/smallest.png?raw=true",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/smallest1.png",
+        "url_png_logo": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/smallest.png",
         "location": "",
         "social": {
-            "twitter_handle": "@NF_Trinity",
+            "twitter_handle": "NF_Trinity",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
